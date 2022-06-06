@@ -22,7 +22,7 @@ Web Development Student. I have acquired the hard skills of HTML5, CSS3, Bootstr
 - #### CSS3
 - #### Bootstrap5
 - ####  JavaScript
-- ####  DOM
+- ####  DOM 
 - #### Version control: Git
 - ####   Node.js (Express.js)
 - ####   MongoDB
